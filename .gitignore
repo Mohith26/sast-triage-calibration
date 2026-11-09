@@ -1,0 +1,6 @@
+BenchmarkJava/
+semgrep-rules/
+semgrep_java.json
+semgrep_log.txt
+.venv/
+__pycache__/
